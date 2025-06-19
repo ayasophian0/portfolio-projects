@@ -28,7 +28,7 @@ As a former editor and manager, I also bring soft skills that I believe are key 
 
 ---
 
-## 📫 Connect with me
+## 📫 Connect
 
 - ✉️ Email: [ayaaltun@gmail.com](mailto:ayaaltun@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yavuz-altun/](https://www.linkedin.com/in/yavuz-altun/)
