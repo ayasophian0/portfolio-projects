@@ -2,7 +2,7 @@
 
 This repository documents a comprehensive project focused on predicting used car prices. The project spans the entire machine learning pipeline, from initial data acquisition and cleaning to model development, evaluation, and preparation for deployment.
 
-**Live Application:** [**Aladin's Price Prediction Shop**](https://aladinspricepredictionshop.streamlit.app/)
+**Live Application:** [**Aladin's Car Price Prediction Shop**](https://aladinspricepredictionshop.streamlit.app/)
 
 ---
 
