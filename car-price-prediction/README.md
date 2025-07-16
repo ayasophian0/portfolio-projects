@@ -1,4 +1,4 @@
-# Car Price Prediction: End-to-End Machine Learning Project
+# Car Price Prediction: A Comprehensive Data Analytics Project
 
 This repository documents a comprehensive project focused on predicting used car prices. The project spans the entire machine learning pipeline, from initial data acquisition and cleaning to model development, evaluation, and preparation for deployment.
 
