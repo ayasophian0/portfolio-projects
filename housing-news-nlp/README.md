@@ -1,4 +1,4 @@
-# Analyzing the Dutch Housing Crisis Narrative: An End-to-End NLP Project
+# Analyzing the Dutch Housing Crisis: An End-to-End NLP Project
 
 This repository documents a comprehensive project that uses Natural Language Processing (NLP) to analyze the evolving narrative of the Dutch housing crisis. The project spans the entire data analysis pipeline, from web scraping and text preparation to advanced topic modeling and sentiment analysis, culminating in a detailed narrative intelligence report.
 
