@@ -2,15 +2,15 @@
 
 Hello! I’m Yavuz — a Data Analyst with a unique background in journalism and digital media, now fully dedicated to the world of data. I love turning raw information into meaningful insights that help businesses and organizations make smarter, more human-centered decisions.
 
-My journey into Data Analytics began after more than a decade in journalism, where I honed skills in research, storytelling, and audience understanding. Today, I combine that experience with technical expertise in **SQL, Python, Tableau, Power BI**, and **Machine Learning** to deliver insights and solutions across a variety of domains.
+My journey into Data Analytics began after more than a decade in journalism, where I honed skills in research, storytelling, and audience understanding. Today, I combine that experience with technical expertise in **SQL, Python, Tableau**, and **Machine Learning** to deliver insights and solutions across a variety of domains.
 
 ---
 
 ## 🧰 Technical Skills
 
-- **Languages & Tools:** Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), SQL, Tableau, Power BI, Excel
+- **Languages & Tools:** Python (Pandas, Numpy, Matplotlib, Seaborn, Scikit-Learn), SQL, Tableau, Google Sheets
 - **ML & Analytics:** Regression, Classification, Clustering, Time-Series Analysis, EDA, Feature Engineering
-- **Cloud & Deployment:** AWS, Streamlit, Grafana
+- **Cloud & Deployment:** AWS, Streamlit, Grafana, New Relic
 - **Version Control:** Git, GitHub
 
 ---
